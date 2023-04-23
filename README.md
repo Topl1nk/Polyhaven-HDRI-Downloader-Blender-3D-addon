@@ -19,14 +19,14 @@ The HDRI Map Downloader is an addon for Blender that streamlines the process of 
 
 ## Installation
 
-1. Download the latest release of the addon from the [GitHub repository](https://github.com/Topl1nk/hdri_map_downloader/releases).
+1. Download the latest release of the addon from the [last release](https://github.com/Topl1nk/Polyhaven-HDRI-Downloader-Blender-3D-addon/releases/tag/addon).
 2. Open Blender and go to Edit > Preferences.
 3. In the Add-ons tab, click on "Install" and select the downloaded ZIP file.
 4. Enable the "HDRI Map Downloader" addon by checking the box next to it.
 
 ## Contributing
 
-If you would like to contribute to the development of this addon, please feel free to submit pull requests or report issues on the [GitHub repository](https://github.com/Topl1nk/hdri_map_downloader).
+If you would like to contribute to the development of this addon, please feel free to submit pull requests or report issues on the [GitHub repository](https://github.com/Topl1nk/Polyhaven-HDRI-Downloader-Blender-3D-addon).
 
 ## License
 
